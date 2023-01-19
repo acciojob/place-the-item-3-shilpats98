@@ -3,11 +3,11 @@
     height: 100px;
     width: 100px;
     background-color: blue;
-    margin: 5px;
+    
 }
 
 .holder{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     flex-wrap: wrap;
 }
